@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/danielmonteiro1906.exerfilipe1",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve pXR6zVTGRmg0m6aAr6WK --open"
+  }
+}
